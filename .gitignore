@@ -1,3 +1,5 @@
 .venv
 *.task
 *.sqlite
+
+**/__pycache__
