@@ -32,6 +32,6 @@ A computer vision-based system that detects driver/user fatigue in real-time usi
 ##  Live Visual
 
 ### Normal State
-[![](https://github.com/Sonu-Hansda/Face-Fatigue-Detection/blob/main/assets/fatigue.png)](https://github.com/Sonu-Hansda/Face-Fatigue-Detection/blob/main/assets/fatigue.png)
+[![](https://github.com/Sonu-Hansda/Face-Fatigue-Detection/blob/main/assets/normal.png)](https://github.com/Sonu-Hansda/Face-Fatigue-Detection/blob/main/assets/normal.png)
 ### Fatigue State 
-![Normal State](images/https://github.com/Sonu-Hansda/Face-Fatigue-Detection/blob/main/assets/normal.png) 
+[![](https://github.com/Sonu-Hansda/Face-Fatigue-Detection/blob/main/assets/fatigue.png)](https://github.com/Sonu-Hansda/Face-Fatigue-Detection/blob/main/assets/fatigue.png)
